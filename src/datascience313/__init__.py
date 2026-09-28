@@ -1,2 +1,4 @@
 def main() -> None:
-    print("Hello from datascience313!")
+    print("Hello")
+if __name__ == "__main__":
+    main()
